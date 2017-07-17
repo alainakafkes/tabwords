@@ -1,8 +1,6 @@
 # tabwords
 
-tabwords is a Chrome extension that displays a randomly chosen word from Other-Wordly - a logophile's treasure trove of obscure words - on each new tab.
-
-![demo](https://im2.ezgif.com/tmp/ezgif-2-8ad0c055b2.gif)
+tabwords is a Chrome extension that displays a randomly chosen word from Other-Wordly - a logophile's treasure trove of obscure words - on each new tab. Check out the [demo](https://twitter.com/alainakafkes/status/882699871446343683).
 
 ## How I Built tabwords
 
